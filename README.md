@@ -1,7 +1,7 @@
 
 dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
 # VW-used-car-analysis
-# working categorical feature
+# working with categorical feature
 1. read dataset
 2. data preprocessing
 3. select categorical column
