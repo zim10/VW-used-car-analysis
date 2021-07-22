@@ -9,7 +9,7 @@ dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 4. visualize each category using seaborn (barplot)
 
 # working with numerical feature
-1. Observe the statistical features in the dataset (mean, standard deviation, percentile, range_
+1. Observe the statistical features in the dataset (mean, standard deviation, percentile, range)
 2. Create scatterplot (one or more) with the numeric columns with adding a trend line and Adding a categorical column as hue
 3. Create Histogtam (one or more) with numeric columns and adding categorical column as hue
 4. Create Distribution plot (one or more) with numeric columns and adding categorical column as hue
