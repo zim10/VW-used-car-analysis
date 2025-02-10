@@ -8,3 +8,5 @@ dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw
 4. Data Exploration using plots and graphs: visualize each feature (Categorical and Numerical) using barplot, Scatterplot, Histogram, Distribution plot, ECDF, box plot and Violin plot, correlation plot
 # Machine learning model
 1. Linear regression
+
+this is the initial step for data analyis and applying machine leanring algorithm
